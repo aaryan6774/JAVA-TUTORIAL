@@ -1,0 +1,21 @@
+//TIP To <b>Run</b> code, press <shortcut actionId="Run"/> or
+// click the <icon src="AllIcons.Actions.Execute"/> icon in the gutter.
+public class Main {
+    public static void main(String[] args) {
+//        DATA TYPE
+//        int, float, char, bool
+            float marks = 8.8f;
+            double ma = 9.99;
+            System.out.println(marks);
+            System.out.println(ma);
+            int num1 = 9;
+            byte by = 127;
+            short sh = 543;
+            long l = 2341l;
+            float f = 23.32f;
+            char c = 'k';
+            boolean b = true;
+
+        }
+
+    }
